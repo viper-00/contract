@@ -1,11 +1,15 @@
 # Editors
 .vscode
 
-#macos
+# Macos
 .DS_Store
 
-#env
+# Env
 .env
 
-#nodejs
+# Nodejs
 node_modules
+
+# Intellij IDE
+.idea
+

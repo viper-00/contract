@@ -1,9 +1,3 @@
----
-title: "智能合约 - 重要知识点"
-date: 2022-09-05T12:59:31+08:00
-draft: true
----
-
 # 智能合约 - 知识点
 
 学习课程：https://cryptozombies.io/
